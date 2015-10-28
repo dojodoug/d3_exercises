@@ -15,3 +15,7 @@ path {
 .tick {
   stroke: black;
 }
+
+circle {
+  fill: aquamarine;
+}
